@@ -94,5 +94,6 @@ public class Main {
         accCloseFun.delLine(accNo,"../db/balanceDB.txt");
         System.out.println("\nAccount successfully Deleted.");
         System.exit(0);
+        
     }
 }
